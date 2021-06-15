@@ -1,15 +1,15 @@
 {
     "Name": "Social Memory cuing",
-    "ReferencesAndLinks": ["Memory enrichment by social context: a virtual reality EEG research project.: https://osf.io/s9xmu/"
+    "ReferencesAndLinks": [
+        "Memory enrichment by social context: a virtual reality EEG research project.: https://osf.io/s9xmu/"
     ],
- "Authors": [
+    "Authors": [
         "Samantha Gregory"
     ],
- "BIDSVersion": "1.6.0",
-
+    "BIDSVersion": "1.6.0",
     "License": "CC0",
-"Funding": [
+    "Funding": [
         "This work was supported by a Leverhulme Trust early career fellowship [ECF-2018-130] awarded to S.E.A. Gregory.)."
-    ]
+    ],
+    "DatasetDOI": "10.18112/openneuro.ds003702.v1.0.0"
 }
-
