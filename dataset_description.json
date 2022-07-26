@@ -1,7 +1,8 @@
 {
     "Name": "Social Memory cuing",
     "ReferencesAndLinks": [
-        "Samantha E A Gregory, Hongfang Wang, Klaus Kessler, EEG Alpha and Theta Signatures of Socially and Non-Socially Cued Working Memory in Virtual Reality, Social Cognitive and Affective Neuroscience, 2021;, nsab123 https://academic.oup.com/scan/advance-article/doi/10.1093/scan/nsab123/6437613?searchresult=1"
+        "Samantha E A Gregory, Hongfang Wang, Klaus Kessler, EEG Alpha and Theta Signatures of Socially and Non-Socially Cued Working Memory in Virtual Reality, Social Cognitive and Affective Neuroscience, 2021;, nsab123 https://academic.oup.com/scan/advance-article/doi/10.1093/scan/nsab123/6437613?searchresult=1",
+        "Gregory, S. E. A., Wang, H., & Kessler, K. (2022). A dataset of EEG recordings from 47 participants collected during a virtual reality working memory task where attention was cued by a social avatar and non-social stick cue. Data in Brief, 41, 107827. https://doi.org/10.1016/j.dib.2022.107827"
     ],
     "Authors": [
         "Samantha Gregory",
