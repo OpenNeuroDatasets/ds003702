@@ -1,45 +1,66 @@
 EEG Raw and processed data for a memory task presented in virtual reality, 
+
 The full task is on OSF: https://osf.io/s9xmu/files
 
 Derivatives:
+
 Behavioral data from the task in derivatives
+
 Processed data is in the derivatives 
 
 Code
+
 Event codes are listed in the code file
+
 Trial function, preprocessing, data cleaning and analysis are also in the code file. 
 
 
 Task:
+
 Wearing a head mounted display to display the task in virtual reality participants completed a visual working memory task 
 In the task they had to remember the status of and details about presented objects. 
-A person or a stick cued the items such that it could look left or right and items could appear on the left or right. Sometimes the cue was valid 
-(i.e. pointed where objects appeared) and sometimes it was invalid (pointed away from where objects appeared) 
+
+A person or a stick cued the items such that it could look left or right and items could appear on the left or right. Sometimes the cue was valid (i.e. pointed where objects appeared) and sometimes it was invalid (pointed away from where objects appeared) 
+
 The objects were always a bowl, a cup, a plate and a teapot. Each could have a different status that needed to be remembered 
 participants were probed on memory for item location and then item status
 
 
-Preprint  to be added
-
-
 Event codes within the data set are as follows. Trial function is included in code folder. 
+
 For the avatar cue
+
 s3021 Character shown - i.e. moment the avatar appears
+
 s3022 Objects shown - i.e. moment that the memory targets appear
+
 s3023 Maintenance interal - i.e. moment the memory objects leave the screen and the blank maintenance interval occurs
+
 s3024 Probe object shown - i.e. moment that participantis presented with location probe
+
 s3025 Resp 1 made - i.e. moment that the participants have responded to the location probe
+
 s3026 Q2 shown - i.e. moment that participants are asked a question about the status of the objects
+
 s3027 Resp 2 made - i.e. moment that the participants have responded to the status probe
 
+
 For the stick cue
+
 s3041 Stick shown - i.e. moment the stick appears
+
 s3042 Objects shown - i.e. moment that the memory targets appear
+
 s3043 Maintenance interval - i.e. moment the memory objects leave the screen and the blank maintenance interval occurs
+
 s3044 Probe object shown - i.e. moment that participant is presented with location probe
+
 s3045 Resp 1 made - i.e. moment that the participants have responded to the location probe
+
 s3046 Q2 shown - i.e. moment that participants are asked a question about the status of the objects
+
 s3047 Resp 2 made - i.e. moment that the participants have responded to the status probe
+
 
 
 Trial info EEG processed data
