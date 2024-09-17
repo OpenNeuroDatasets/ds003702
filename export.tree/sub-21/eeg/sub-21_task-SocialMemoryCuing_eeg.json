@@ -1,0 +1,19 @@
+{
+  "TaskName":"Social Memory cuing",
+  "TaskDescription":"Subjects see items that they need to remember either cued by a social cue or a non-social cue",
+  "InstitutionName":"Aston university, Birmingham",
+  "SamplingFrequency":500,
+  "Manufacturer":"ANT Neuro",
+  "ManufacturersModelName":"64 channel eego™ sports mobile ",
+  "EEGChannelCount":61,
+  "EOGChannelCount":0,
+  "ECGChannelCount":0,
+  "EMGChannelCount":0,
+  "MiscChannelCount":0,
+  "PowerLineFrequency":50,
+  "EEGPlacementScheme":"10-10 system - fixed cap",
+  "EEGReference":"CPz",
+  "EEGGround":"AFz",
+  "RecordingType":"continuous",
+  "SoftwareFilters": "n/a"
+}
