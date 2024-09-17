@@ -12,8 +12,9 @@ Code
 
 Event codes are listed in the code file
 
-Trial function, preprocessing, data cleaning and analysis are also in the code file. 
+Trial function, preprocessing, data cleaning and analysis are also in the code file as .txt files which can be converted back to .m files. 
 
+The code uses information contained in matlab data files: layout_64WG.mat and neighbours.mat  due to the structure of these, they have been uploaded as .mat files. 
 
 Task:
 
@@ -34,9 +35,9 @@ s3021 Character shown - i.e. moment the avatar appears
 
 s3022 Objects shown - i.e. moment that the memory targets appear
 
-s3023 Maintenance interal - i.e. moment the memory objects leave the screen and the blank maintenance interval occurs
+s3023 Maintenance interval - i.e. moment the memory objects leave the screen and the blank maintenance interval occurs
 
-s3024 Probe object shown - i.e. moment that participantis presented with location probe
+s3024 Probe object shown - i.e. moment that participant is presented with location probe
 
 s3025 Resp 1 made - i.e. moment that the participants have responded to the location probe
 
